@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "e-District Application Development / Maintenance",
+        "client": "Government of Tamil Nadu",
+        "description": "e-District is a State Mission Mode Project under the National e-Governance Plan. The project aims to target high volume services and undertake backend computerization to electronically enable the delivery of these services through Common Service Centres (CSC). e-District offers G2C(Government to Citizens), G2E (Government to Employees) and G2B (Government to Business) services of the Government"
+    },
+    {
+        "id": 2,
+        "title": "Provide IT Solutions for Government Departments",
+        "client": "Government of Tamil Nadu",
+        "description": "Revamping of various Government Websites, Fixing VAPT for Government Websites, API Integration of SMS Gateway, Email and other State & Central Government API Integration. Making the Government websites in compliance with GIGW (Guidelines for Indian Government Websites) and NeSDA (National e-Governance Service Delivery Assessment)."
+    },
+    {
+        "id": 3,
+        "title": "SDG (Sustainable Development Goals) Monitoring Portal",
+        "client": "Planning, Development & Special Initiatives Department",
+        "description": "A Dynamic Web Portal for SDG monitoring that will act as a single point of access to stakeholders for analyzing the performance of each indicator."
+    },
+    {
+        "id": 4,
+        "title": "Web based Monitoring / Reporting Application",
+        "client": "Commissionerate of Land Reforms.",
+        "description": "Computerization of MR-IV data of the Land Reforms Department helps to improve the Monitoring system and provides transparency in land records management of all districts."
+    },
+    {
+        "id": 5,
+        "title": "Online Registration System",
+        "client": "Tamil Nadu e-Governance Agency",
+        "description": "A Dynamic Web-Portal for registration of the participants of Tamil Nadu Hackathon Event for CM awards. Evaluate, design, implement and maintain internal and external portal applications."
+    },
+    {
+        "id": 6,
+        "title": "Employee Information System",
+        "client": "Tamil Nadu e-Governance Agency",
+        "description": "A Dynamic Web-Portal for employers to view their employees profile like Personal details, Education, Experience and Skillset."
+    }
+]

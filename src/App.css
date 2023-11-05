@@ -36,3 +36,87 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+
+
+
+
+
+/* My styles */
+body{
+  background-color:#EAEAEA;
+}
+.profile-image{
+  width:250px;
+  height:250px;
+  margin: 10px auto;
+  border-radius:50%;
+  border:1px solid #999;
+  padding:3px;
+  text-align:center;
+}
+.profile{
+  margin-top:20px;
+}
+.profile .fa{
+  color: teal;
+  font-size:18px;
+  margin-left:20px;
+  padding-right:10px;
+  opacity:0.7;
+}
+.progress{
+  margin:10px 0;
+  height:1.5rem;
+  border-radius:10px;
+}
+.progress-bar{
+  background-color:teal;
+  opacity:0.7;
+  border-radius:10px;
+}
+.card-title{
+  font-weight:bold;
+  color:teal;
+  opacity: 0.7;
+  padding-bottom:10px;
+  /* border-bottom:1px solid lightgrey; */
+  margin-bottom:5px;
+}
+.duration{
+  color:teal;
+  font-weight:bold;
+  opacity:0.6;
+}
+.client{
+  margin-top:-10px;
+  color:#616a6b;
+}
+.project, .experience{
+  margin:15px 5px;
+  border-bottom: 1px solid lightgrey;
+}
+.project-title{
+  color: #5d6d7e;
+  font-weight:bold;
+  font-size:18px;
+} 
+
+.experience-title{
+  color: #5d6d7e;
+  font-weight:bold;
+  font-size:18px;
+}
+.project-title > i{
+  margin-right:10px;
+  color:  #16a085;
+}
+.project-description{
+  margin-top:15px;
+  text-align: justify;
+  color:#616a6b;
+}

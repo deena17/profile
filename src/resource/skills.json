@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name": "React",
+        "percent": 75
+    },
+    {
+        "id":2,
+        "name": "Python",
+        "percent": 80
+    },
+    {
+        "id":3,
+        "name": "PHP",
+        "percent": 80
+    },
+    {
+        "id":4,
+        "name": "HTML, CSS & JavaScript",
+        "percent": 90
+    }
+]
